@@ -1,0 +1,3 @@
+2. Modify your program from #1 to add rudimentary recognition of proper nouns (“named entities”) in the input, and print a list of recognized 
+named entities when it runs. The list of named entities is in the file “NER.txt”. Enhance your data structures and output schema to store 
+information about which portions of the text represent named entities.
