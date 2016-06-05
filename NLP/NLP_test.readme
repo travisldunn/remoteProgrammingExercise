@@ -1,4 +1,0 @@
-Write a program that identifies sentence boundaries and tokenizes the text in the file “nlp_data.txt” into words.
-It should correctly process all symbols, including punctuation and whitespace. Every word must fall into a sentence.
-Create data structures that efficiently express the data you have processed. When your program runs it should output
-an XML representation of your Java object model.

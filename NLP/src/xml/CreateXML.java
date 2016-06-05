@@ -19,6 +19,7 @@ import java.util.Collection;
 //and here is where I will convert and create a file out.
 
 public class CreateXML {
+
     private final String file;
     private final Collection<Paragraph> paragraphs;
     private final DocumentBuilderFactory dBF = DocumentBuilderFactory.newInstance();

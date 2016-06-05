@@ -39,7 +39,6 @@ public class Paragraph implements Tagable {
 
 //   I was going to make a long list of regex, but this seemed much easier to read and understand. 
     
-    
     public static List<Sentence> breakParagraph(String para){
         if(para == null || para.isEmpty()) return Collections.emptyList();
         List<Sentence> sentences = new ArrayList<Sentence>();
